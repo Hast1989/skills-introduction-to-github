@@ -1,0 +1,20 @@
+Matrix
+1 1 1 1 4
+2 3 3 3 11
+2 4 4 4 15
+4 5 6 7 22
+
+XGaus
+-2.5 -8.38861e+06 1.67772e+07 -8.38861e+06 
+NormV XGaus
+2.05478e+07
+Treg Matrix after Gaus
+4 5 6 7 22
+0 1.5 1 0.5 4
+0 0 -0.333333 -0.666667 -1.33333
+0 0 0 -5.96046e-08 0.5
+
+discrepancyG=4.24264
+generate Matrix QR
+
+Cond=inf
